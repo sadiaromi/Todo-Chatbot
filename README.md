@@ -206,7 +206,3 @@ The AI chatbot understands various commands:
 - content (text)
 - created_at (datetime)
 
-
-## 🆘 Support
-
-For support, please open an issue in the GitHub repository.
